@@ -1,0 +1,41 @@
+{
+  "development": true,
+  "save": true,
+  "fields": [
+    "scripts",
+    "styles",
+    "templates",
+    "json"
+  ],
+  "extensions": {
+    "scripts": [
+      "js",
+      "json",
+      "html"
+    ],
+    "styles": [
+      "css"
+    ],
+    "files": [
+
+    ]
+  },
+  "scripts": {
+
+  },
+  "styles": {
+    "urlPrefix": "",
+    "browsers": null
+  },
+  "files": {
+    "copy": false,
+    "fields": [
+      "fonts",
+      "images",
+      "files"
+    ]
+  },
+  "jshint": {
+    "dir": "."
+  }
+}

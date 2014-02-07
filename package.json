@@ -1,0 +1,46 @@
+{
+  "name": "component-process",
+  "description": "component as a running process",
+  "version": "0.0.1",
+  "author": {
+    "name": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "twitter": "https://twitter.com/jongleberry"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathanong/component-process.js.git"
+  },
+  "bugs": {
+    "mail": "me@jongleberry.com",
+    "url": "https://github.com/jonathanong/component-process.js/issues"
+  },
+  "dependencies": {
+    "debug": "*",
+    "co": "^3.0.2",
+    "gaze": "~0.5.0",
+    "archy": "~0.0.2",
+    "bytes": "~0.2.1",
+    "mkdirp": "~0.3.5",
+    "rimraf": "^2.2.6",
+    "remotes": "~0.0.0",
+    "jshint": "^2.4.3",
+    "chanel": "^1.0.5",
+    "semver": "^2.2.1",
+    "component-resolver": "~0.0.0",
+    "component-builder2": "~0.0.0",
+    "autoprefixer": "^1.0.0",
+    "uglify-js": "^2.4.11",
+    "clean-css": "^2.0.7",
+    "cli-table": "~0.3.0",
+    "co-child-process": "~0.0.1"
+  },
+  "scripts": {
+    "start": "node --harmony-generators . --watch"
+  },
+  "engines": {
+    "node": ">= 0.11.9"
+  }
+}

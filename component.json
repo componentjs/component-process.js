@@ -1,0 +1,11 @@
+{
+  "name": "process",
+  "private": true,
+  "paths": [
+    "test"
+  ],
+  "locals": [
+    "boot",
+    "user"
+  ]
+}
