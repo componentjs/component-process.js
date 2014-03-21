@@ -1,7 +1,7 @@
 {
   "name": "component-process",
   "description": "component as a running process",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "author": {
     "name": "Jonathan Ong",
     "email": "me@jongleberry.com",
@@ -30,7 +30,7 @@
     "component-flatten": "~0.0.1",
     "component-resolver": "~0.2.1",
     "component-builder2": "~0.2.2",
-    "autoprefixer": "^1.0.0",
+    "builder-autoprefixer": "~0.0.2",
     "uglify-js": "^2.4.11",
     "clean-css": "^2.0.7",
     "cli-table": "~0.3.0",
